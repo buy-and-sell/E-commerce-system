@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PAFUsermanagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Manoj_Niranthaka
+Implementation-Vendor-Id: com.naveenan
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PAFUsermanagement
+Created-By: Maven Integration for Eclipse
+
